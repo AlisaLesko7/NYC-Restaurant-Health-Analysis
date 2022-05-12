@@ -17,26 +17,26 @@ The tools used to build this Data Warehouse were:
 
 ### Project Planning
 
-Motivation for project:
+#### Motivation for project:
 
   The goal of this project is to clearly demonstrate the overall health of
 restaurants in NYC.
 
-Description of the issues or opportunities the project will address:
+#### Description of the issues or opportunities the project will address:
 
   This project will address the opportunities to locate optimal locations for
 various cuisines, determine which locations have favorable varieties
 and scores. It will also track any suboptimal locations
 and show trends in restaurant inspections.
 
-Project Business or Organization Value:
+#### Project Business or Organization Value:
   By demonstrating the health of restaurants across New York City, users can
 gain insights about where to dine as a customer, or where to operate as a
 prospective owner. Anyone interested in food inspection can use
 the insights generated to narrow their focus and implement better regulations.
 Owners can also compare their establishments to the averages across the city.
 
-Data Sources:
+#### Data Sources:
 1. DOHMH New York City Restaurant Inspection Results Dataset
 https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
 
@@ -56,13 +56,13 @@ List of Data Warehouse KPI's:
 
 This project's Dimensional Model consists of 1 Facts and 4 Dimensions
 
-Use correct file path here to show picture of dimensional model...
-![Dimensional Model made with Google Drawings](Dimensional Model.jpg)
+
+![Dimensional Model made with Google Drawings](https://user-images.githubusercontent.com/102559615/167975253-31c50178-e4b0-479d-9631-f4c2fcf40778.jpg)
 
 This project's Kimball Bus Matrix:
+![Kimball BUS Matrix made with MS Excel](https://user-images.githubusercontent.com/102559615/167975419-d49e93cc-8dce-48f6-bc9e-d4e80ce5b8f9.jpg)
 
-Use correct file path here to show picture of dimensional model...
-![Kimball BUS Matrix made with MS Excel](/img/Kimball BUS Matrix.jpg)
+
 
 ### Business Intelligence Design and Development
 
@@ -78,15 +78,16 @@ List of Visualizations for each KPI:
 
 BI Application Wireframe design:
 
-Use correct file path here to show picture of Wireframe design...
-![BI Application Wireframe made with MS Visio](/img/cis 9440 bi wireframe.jpg)
+![BI Application Wireframe made with MS Visio](https://user-images.githubusercontent.com/102559615/167975037-10b79825-1a1d-4332-95d3-6af88ffd408c.jpg)
 
 Pictures of final Dashboards:
 
-Use correct file path here to show picture of Dashboard...
-![The first Dashboard made in Tableau demonstrating 4 KPIs](Dashboard 1.jpg)
-![The second Dashboard made in Tableau demonstrating 2 KPIs](Dashboard 2.jpg)
-![The third Dashboard made in Tableau demonstrating 2 KPIs](/img/Dashboard 3.jpg)
+![The first Dashboard made in Tableau demonstrating 4 KPIs](https://user-images.githubusercontent.com/102559615/167975448-191bee4e-9494-4ae8-abe5-19b97b0c24c0.jpg)
+
+![The second Dashboard made in Tableau demonstrating 2 KPIs](https://user-images.githubusercontent.com/102559615/167975480-4be91440-74ad-46cb-b6a3-cd3d7b218614.jpg)
+
+![The third Dashboard made in Tableau demonstrating 2 KPIs](https://user-images.githubusercontent.com/102559615/167975554-244bb3b5-43ea-45af-acc9-08b6402e717e.jpg)
+
 
 ### Deployment
 
